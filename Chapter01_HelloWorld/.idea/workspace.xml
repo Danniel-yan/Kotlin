@@ -2,13 +2,93 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="553e21f8-bf11-4842-88d7-c9fe7c92f65b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-10-1Cmd_Counter.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-7-1LoopExpression.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-7-2LooperObj.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-8-1try_catch_exception.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-9-1params.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter4_object/4-1-1InputDevice.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter4_object/4-1-2Abstract_Interface.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter4_object/4-2-1Obj_Inherit_Abstract.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter4_object/4-2-2Obj_Inherit_Interface.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/java/PersonJava.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/A.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/B$e$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/B.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/BasicTypesKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/Books.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/Complex.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/Counter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/Meizi.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/MyIntList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/MyIterator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/NewMeizi.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/NewRen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/NewShuaige.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/Operator$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/Operator$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/Operator$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/Operator$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/Operator$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/Operator$opFunction$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/Operator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/Outer$Inner.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/Outer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/OuterKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/Person$Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/PersonKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/Player$State.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/Player$WhenMappings.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/Player.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/Ren.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/Shape.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/Shuaige.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/Student.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/TypeCaseKotlin.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/TypeCaseKotlinKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/X.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/_2_5ClassAndObjKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/_2_6NullUnSafeKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/_2_8RangeExampleKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/_2_9ArrayKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/_3_10_1Cmd_CounterKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/_3_1val_varKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/_3_2FunctionKt$getResult$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/_3_2FunctionKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/_3_3LambdaKt$main$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/_3_3LambdaKt$main$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/_3_3LambdaKt$sum$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/_3_3LambdaKt$sum2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/_3_3LambdaKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/_3_4_0ClassMemberKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/_3_4_1MoreAboutMemberKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/_3_5_1OperaterComplexKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/_3_5_2ConditionKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/_3_5_3WhenKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/_3_7_1LoopExpressionKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/_3_7_2LooperObjKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/_3_8_1try_catch_exceptionKt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf/_3_9_1paramsKt.class" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/2-5ClassAndObj.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter123/2-5ClassAndObj.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/2-6NullUnSafe.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter123/2-6NullUnSafe.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/2-7package.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter123/2-7package.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/2-8RangeExample.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter123/2-8RangeExample.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/2-9Array.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter123/2-9Array.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-10-1Cmd_Counter.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter123/3-10-1Cmd_Counter.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-1val_var.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter123/3-1val_var.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-2Function.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter123/3-2Function.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-3Lambda.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter123/3-3Lambda.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-4-0ClassMember.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter123/3-4-0ClassMember.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-4-1MoreAboutMember.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter123/3-4-1MoreAboutMember.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-5-1OperaterComplex.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter123/3-5-1OperaterComplex.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-5-2Condition.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter123/3-5-2Condition.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-5-3When.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter123/3-5-3When.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-7-1LoopExpression.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter123/3-7-1LoopExpression.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-7-2LooperObj.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter123/3-7-2LooperObj.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-8-1try_catch_exception.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter123/3-8-1try_catch_exception.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-9-1params.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter123/3-9-1params.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/HelloWorld.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter123/HelloWorld.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/Outer.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter123/Outer.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/Person.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter123/Person.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/TypeCaseKotlin.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter123/TypeCaseKotlin.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/basicTypes.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter123/basicTypes.kt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/META-INF/Chapter01_HelloWorld.kotlin_module" afterPath="$PROJECT_DIR$/build/classes/main/META-INF/Chapter01_HelloWorld.kotlin_module" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Chapter01_HelloWorld.iws" />
@@ -90,101 +170,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="3-5-2Condition.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-5-2Condition.kt">
+      <file leaf-file-name="4-2-2Obj_Inherit_Interface.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter4_object/4-2-2Obj_Inherit_Interface.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="3-5-3When.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-5-3When.kt">
+      <file leaf-file-name="4-2-1Obj_Inherit_Abstract.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter4_object/4-2-1Obj_Inherit_Abstract.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="1" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3-7-1LoopExpression.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-7-1LoopExpression.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3-7-2LooperObj.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-7-2LooperObj.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3-8-1try_catch_exception.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-8-1try_catch_exception.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3-9-1params.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-9-1params.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3-10-1Cmd_Counter.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-10-1Cmd_Counter.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Console.kt" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.0.4/2487b33122122c55e74526bd1ee19b09e2e7185b/kotlin-stdlib-1.0.4-sources.jar!/kotlin/io/Console.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="76" column="18" selection-start-line="76" selection-start-column="18" selection-end-line="76" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3-5-1OperaterComplex.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-5-1OperaterComplex.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.114795916">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.40397352">
+              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -196,6 +196,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="Kotlin Interface" />
         <option value="Class" />
         <option value="Kotlin File" />
       </list>
@@ -533,6 +534,12 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-9-1params.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-10-1Counter.kt" />
         <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter4_object/InputDevice.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter4_object/4-2Abstract_Interface.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/yshr/java/PersonJava.java" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter4_object/4-2-1Ob_Inherit.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter4_object/4-2-1Ob_Inherit_Abstract.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter4_object/4-2-2Obj_Inherit_Interface.kt" />
       </list>
     </option>
   </component>
@@ -552,9 +559,9 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="83" />
-    <option name="y" value="23" />
-    <option name="width" value="1140" />
+    <option name="x" value="581" />
+    <option name="y" value="35" />
+    <option name="width" value="1206" />
     <option name="height" value="873" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -656,8 +663,34 @@
               <option name="myItemId" value="yshr" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ctcf" />
+              <option name="myItemId" value="Chapter01_HelloWorld" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter01_HelloWorld" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kotlin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yshr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ctcf_chapter4_object" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -689,23 +722,10 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin/com/yshr/市委书记/上海" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.com.yshr.ctcf._3_10_1Cmd_CounterKt">
-    <configuration default="false" name="com.yshr.ctcf._3_7_1LoopExpressionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.com.yshr.ctcf_chapter4_object._4_2_2Obj_Inherit_InterfaceKt">
+    <configuration default="false" name="com.yshr.ctcf_chapter123._3_9_1paramsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="com.yshr.ctcf._3_7_1LoopExpressionKt" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="a b c d" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Chapter01_HelloWorld" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="com.yshr.ctcf._3_7_2LooperObjKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="com.yshr.ctcf._3_7_2LooperObjKt" />
+      <option name="MAIN_CLASS_NAME" value="com.yshr.ctcf_chapter123._3_9_1paramsKt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -716,22 +736,9 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="com.yshr.ctcf._3_8_1try_catch_exceptionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="com.yshr.ctcf_chapter123._3_10_1Cmd_CounterKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="com.yshr.ctcf._3_8_1try_catch_exceptionKt" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="q" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Chapter01_HelloWorld" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="com.yshr.ctcf._3_9_1paramsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="com.yshr.ctcf._3_9_1paramsKt" />
+      <option name="MAIN_CLASS_NAME" value="com.yshr.ctcf_chapter123._3_10_1Cmd_CounterKt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -742,9 +749,35 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="com.yshr.ctcf._3_10_1Cmd_CounterKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="com.yshr.ctcf_chapter4_object._4_1_1InputDeviceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="com.yshr.ctcf._3_10_1Cmd_CounterKt" />
+      <option name="MAIN_CLASS_NAME" value="com.yshr.ctcf_chapter4_object._4_1_1InputDeviceKt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Chapter01_HelloWorld" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="com.yshr.ctcf_chapter4_object._4_2_1Obj_Inherit_AbstractKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.yshr.ctcf_chapter4_object._4_2_1Obj_Inherit_AbstractKt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Chapter01_HelloWorld" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="com.yshr.ctcf_chapter4_object._4_2_2Obj_Inherit_InterfaceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.yshr.ctcf_chapter4_object._4_2_2Obj_Inherit_InterfaceKt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -1201,9 +1234,9 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <configuration default="false" name="com.yshr.ctcf._3_3LambdaKt" type="JetRunConfigurationType" factoryName="Kotlin" nameIsGenerated="true">
+    <configuration default="false" name="com.yshr.ctcf_chapter123._3_3LambdaKt" type="JetRunConfigurationType" factoryName="Kotlin" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="com.yshr.ctcf._3_3LambdaKt" />
+      <option name="MAIN_CLASS_NAME" value="com.yshr.ctcf_chapter123._3_3LambdaKt" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="a f w w2323 3 1` q e ef !" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -1215,20 +1248,20 @@
       <method />
     </configuration>
     <list size="6">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.com.yshr.ctcf._3_3LambdaKt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.com.yshr.ctcf._3_7_1LoopExpressionKt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.com.yshr.ctcf._3_7_2LooperObjKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.com.yshr.ctcf._3_8_1try_catch_exceptionKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.com.yshr.ctcf._3_9_1paramsKt" />
-      <item index="5" class="java.lang.String" itemvalue="Kotlin.com.yshr.ctcf._3_10_1Cmd_CounterKt" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.com.yshr.ctcf_chapter123._3_3LambdaKt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.com.yshr.ctcf_chapter123._3_9_1paramsKt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.com.yshr.ctcf_chapter123._3_10_1Cmd_CounterKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.com.yshr.ctcf_chapter4_object._4_1_1InputDeviceKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.com.yshr.ctcf_chapter4_object._4_2_1Obj_Inherit_AbstractKt" />
+      <item index="5" class="java.lang.String" itemvalue="Kotlin.com.yshr.ctcf_chapter4_object._4_2_2Obj_Inherit_InterfaceKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.com.yshr.ctcf._3_10_1Cmd_CounterKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.com.yshr.ctcf._3_9_1paramsKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.com.yshr.ctcf._3_8_1try_catch_exceptionKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.com.yshr.ctcf._3_7_2LooperObjKt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.com.yshr.ctcf._3_7_1LoopExpressionKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.com.yshr.ctcf_chapter4_object._4_2_2Obj_Inherit_InterfaceKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.com.yshr.ctcf_chapter4_object._4_2_1Obj_Inherit_AbstractKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.com.yshr.ctcf_chapter4_object._4_1_1InputDeviceKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.com.yshr.ctcf_chapter123._3_10_1Cmd_CounterKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.com.yshr.ctcf_chapter123._3_9_1paramsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -1251,12 +1284,12 @@
       <workItem from="1505870491195" duration="399000" />
       <workItem from="1505889175345" duration="1244000" />
       <workItem from="1505890510061" duration="56000" />
-      <workItem from="1505890587951" duration="24450000" />
+      <workItem from="1505890587951" duration="32035000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68124000" />
+    <option name="totallyTimeSpent" value="75709000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1268,23 +1301,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="83" y="23" width="1140" height="873" extended-state="0" />
-    <editor active="true" />
+    <frame x="581" y="35" width="1206" height="873" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4622279" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4622279" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.59411013" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2227913" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19078106" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.72983354" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17941712" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29639176" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29781422" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28092784" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24954462" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1350,31 +1383,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/2-5ClassAndObj.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-4-0ClassMember.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/2-5ClassAndObj.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-4-0ClassMember.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter123/3-3Lambda.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1382,7 +1391,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-3Lambda.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter123/2-5ClassAndObj.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1390,22 +1399,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/2-5ClassAndObj.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/Outer.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter123/Outer.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/Person.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter123/Person.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1538,14 +1539,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/Outer.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter123/Outer.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/Person.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter123/Person.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1559,7 +1560,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-3Lambda.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter123/3-3Lambda.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
@@ -1567,15 +1568,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/2-5ClassAndObj.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-4-0ClassMember.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter123/3-4-0ClassMember.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
@@ -1599,7 +1592,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-4-1MoreAboutMember.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter123/3-4-1MoreAboutMember.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
@@ -1607,7 +1600,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-5-1OperaterComplex.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter123/3-5-1OperaterComplex.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
@@ -1615,7 +1608,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-5-2Condition.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter123/3-5-2Condition.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
@@ -1623,7 +1616,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-5-3When.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter123/3-5-3When.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="1" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
@@ -1671,7 +1664,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-7-1LoopExpression.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter123/3-7-1LoopExpression.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
@@ -1679,7 +1672,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-7-2LooperObj.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter123/3-7-2LooperObj.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
@@ -1687,7 +1680,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-8-1try_catch_exception.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter123/3-8-1try_catch_exception.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
@@ -1703,7 +1696,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-9-1params.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter123/3-9-1params.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
@@ -1711,7 +1704,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf/3-10-1Cmd_Counter.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter123/3-10-1Cmd_Counter.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
@@ -1721,8 +1714,59 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.114795916">
+        <state vertical-scroll-proportion="0.078947365">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter123/2-5ClassAndObj.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45094937">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter4_object/4-1-1InputDevice.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="64" column="6" selection-start-line="64" selection-start-column="6" selection-end-line="64" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter4_object/4-1-2Abstract_Interface.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/java/PersonJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding>
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter4_object/4-2-2Obj_Inherit_Interface.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter4_object/4-2-1Obj_Inherit_Abstract.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40397352">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding />
         </state>
       </provider>
