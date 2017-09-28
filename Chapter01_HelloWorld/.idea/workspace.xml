@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="553e21f8-bf11-4842-88d7-c9fe7c92f65b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter5_seniorfunction/5-4-1Factorial.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter5_seniorfunction/5-5-1closure.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter5_seniorfunction/5-6-1ComplexFunction.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter5_seniorfunction/5-7-1Curring.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter5_seniorfunction/5-9-1CalculateAllChars.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter6_DSL/6-1-1DSL_HTML.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter7_xiecheng/7-6-1sequence.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter7_xiecheng/DownLoadContext.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter8_java_kotlin/8-3-1kotlin_Regex.kt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/META-INF/Chapter01_HelloWorld.kotlin_module" afterPath="$PROJECT_DIR$/build/classes/main/META-INF/Chapter01_HelloWorld.kotlin_module" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf_chapter5_seniorfunction/Person.class" afterPath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf_chapter5_seniorfunction/Person.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf_chapter5_seniorfunction/_5_2_1chainedFunctionKt.class" afterPath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf_chapter5_seniorfunction/_5_2_1chainedFunctionKt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf_chapter5_seniorfunction/_5_3_1ObjSeniorFuncKt.class" afterPath="$PROJECT_DIR$/build/classes/main/com/yshr/ctcf_chapter5_seniorfunction/_5_3_1ObjSeniorFuncKt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter8_java_kotlin/8-3-1kotlin_Regex.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/com/yshr/ctcf_chapter8_java_kotlin/8-3-1kotlin_Regex.kt" />
     </list>
     <ignored path="Chapter01_HelloWorld.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -532,8 +518,8 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="531" />
-    <option name="y" value="23" />
+    <option name="x" value="415" />
+    <option name="y" value="24" />
     <option name="width" value="1411" />
     <option name="height" value="873" />
   </component>
@@ -1175,12 +1161,12 @@
       <workItem from="1506310945554" duration="158000" />
       <workItem from="1506311119255" duration="124000" />
       <workItem from="1506311254738" duration="34431000" />
-      <workItem from="1506488049736" duration="18942000" />
+      <workItem from="1506488049736" duration="19043000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135743000" />
+    <option name="totallyTimeSpent" value="135844000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1192,8 +1178,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="531" y="23" width="1411" height="873" extended-state="0" />
-    <editor active="false" />
+    <frame x="415" y="24" width="1411" height="873" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1203,7 +1189,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943755" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31882203" sideWeight="0.5989773" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.49551857" sideWeight="0.7567568" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.49551857" sideWeight="0.7567568" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22425129" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
